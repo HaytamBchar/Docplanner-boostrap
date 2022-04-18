@@ -1,0 +1,21 @@
+
+
+
+
+p{
+    color: #747474;
+}
+
+.brands__logos{
+    list-style-type: none;
+}
+
+.box{
+    height: 250px;
+    width: 229px;
+    padding: 15;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 5px;
+}
+
